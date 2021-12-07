@@ -15,4 +15,4 @@ Create a new file index.html. Don't forget to add the .html extension.
 
 Now, start writing your code in the index.html.
 
-### Output Link : https://vishnupriya888.github.io/LudoDesign/
+### Output Link : https://chsrinidhi88.github.io/Ludo-Design/
